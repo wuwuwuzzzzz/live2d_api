@@ -1,0 +1,45 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "index.moc",
+  "textures": [
+    "textures/texture_00.png"
+  ],
+  "motions": {
+    "idle": [
+      {
+        "file": "months/idle.mtn"
+      }
+    ],
+    "": [
+      {
+        "file": "months/06.mtn"
+      },
+      {
+        "file": "months/07.mtn"
+      },
+      {
+        "file": "months/08.mtn"
+      },
+      {
+        "file": "months/09.mtn"
+      },
+      {
+        "file": "months/01.mtn"
+      },
+      {
+        "file": "months/02.mtn"
+      },
+      {
+        "file": "months/03.mtn"
+      },
+      {
+        "file": "months/04.mtn"
+      },
+      {
+        "file": "months/05.mtn"
+      }
+    ]
+  },
+  "physics": "physics.json",
+  "name": "koharu"
+}
